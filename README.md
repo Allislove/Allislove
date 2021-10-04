@@ -14,7 +14,7 @@
 
 ## 📫 How to reach me:
 - Web: https://andresromana.com
-- LinkedIn: linkedin.com/in/andres-romana/
+- LinkedIn: https://linkedin.com/in/andres-romana/
 - Coming soon(Building)
     * Blog: https://blog.andresromana.com
 
