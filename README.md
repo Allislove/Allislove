@@ -13,10 +13,10 @@
 
 
 ## 📫 How to reach me:
-- Web: [https://andresromana.com][1]
-- LinkedIn: [linkedin.com/in/andres-romana/][2]
-- Coming soon
-    * Blog: [blog.andresromana.com][3]
+- Web: https://andresromana.com
+- LinkedIn: linkedin.com/in/andres-romana/
+- Coming soon(Building)
+    * Blog: https://blog.andresromana.com
 
 
 
