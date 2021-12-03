@@ -15,7 +15,7 @@
 ## 📫 How to reach me:
 - Web: https://andresromana.com
 - LinkedIn: https://linkedin.com/in/andres-romana/
-- Coming soon(Building)
+- The Blog is active now!.
     * Blog: https://blog.andresromana.com
 
 
@@ -24,6 +24,10 @@
 - NodeJS
 - React
 
+
+## I'm doing ...:
+- A Parking lot Application for the city of Medellin
+- See you soon 👋
 
 ## 👯 I’m looking to collaborate on
 
