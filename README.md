@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Mi nombre es Andrés Romaña, Estudiante de Desarrollo de Software, con conocimiento en JavaScript, Python y Java, pero ahora mas centrado en NodeJS, para poder tener buenas bases en este campo, y asi poder resolver los problemas dia a dia de una manera eficaz, resido en la ciudad de Medellin/Colombia y estoy a disposición para lo que necesites.
+- Mi nombre es Andrés Romaña, Estudiante de Desarrollo de Software, en busca de la felicidad.
 
 - Me gusta trotar, correr, leer y a veces juego Videojuegos.
 
@@ -21,9 +21,9 @@
 
 
 ## 🌱 I’m currently learning ...
-- NodeJS
+- C++
+- JavaScript
 - React
-
 
 ## I'm doing ...:
 - A Parking lot Application for the city of Medellin
@@ -31,7 +31,7 @@
 
 ## 👯 I’m looking to collaborate on
 
-- Any company or freelance With NodeJS/React.
+- Any company.
 <!--
 **Allislove/Allislove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
