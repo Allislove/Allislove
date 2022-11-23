@@ -14,10 +14,10 @@
 
 ## How to reach me:
 - Web: https://andresromana.com
-- LinkedIn: https://linkedin.com/in/andres-romana/
+<!-- - LinkedIn: https://linkedin.com/in/andres-romana/
 - The Blog is active now!.
     * Blog: https://blog.andresromana.com
-
+-->
 
 
 ## I’m currently learning ...
