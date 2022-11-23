@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-- Mi nombre es Andrés Romaña, Estudiante de Desarrollo de Software, en busca de la felicidad.
+- I'm Andrés Romaña, from Colombia.
 
 - Me gusta trotar, correr, leer y a veces juego Videojuegos.
 
@@ -12,7 +12,7 @@
 </a>
 
 
-## 📫 How to reach me:
+## How to reach me:
 - Web: https://andresromana.com
 - LinkedIn: https://linkedin.com/in/andres-romana/
 - The Blog is active now!.
@@ -20,16 +20,14 @@
 
 
 
-## 🌱 I’m currently learning ...
-- C++
-- JavaScript
-- React
+## I’m currently learning ...
+- ( C++, JavaScript, React )
 
 <!-- ## I'm doing ...:
 - A Parking lot Application for the city of Medellin
 - See you soon 👋 -->
 
-## 👯 I’m looking to collaborate on
+## I’m looking to collaborate on
 
 - Any company.
 <!--
