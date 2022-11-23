@@ -25,9 +25,9 @@
 - JavaScript
 - React
 
-## I'm doing ...:
+<!-- ## I'm doing ...:
 - A Parking lot Application for the city of Medellin
-- See you soon 👋
+- See you soon 👋 -->
 
 ## 👯 I’m looking to collaborate on
 
