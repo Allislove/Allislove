@@ -17,13 +17,13 @@
 <!-- - LinkedIn: https://linkedin.com/in/andres-romana/
 - The Blog is active now!.
     * Blog: https://blog.andresromana.com
--->
+
 
 
 ## I’m currently learning ...
 - ( C++, JavaScript, React )
-
-<!-- ## I'm doing ...:
+ 
+## I'm doing ...:
 - A Parking lot Application for the city of Medellin
 - See you soon 👋 -->
 
